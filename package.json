@@ -1,0 +1,8 @@
+{
+  "name": "linkhub-website",
+  "version": "1.0.0",
+  "description": "A simple link hub website for Alex's projects",
+  "keywords": ["link hub", "website", "projects"],
+  "author": "alexarias",
+  "license": "ISC"
+}
